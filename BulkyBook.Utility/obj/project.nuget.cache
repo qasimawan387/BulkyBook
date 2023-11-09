@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4TMCYZHyl1FUpkSf2Og4JG9tFae0XFcfEsmcpt6ondEp20BZ34ntBuFl3kLVkUvigc/b5CBclvGKX2LWjbWTEQ==",
+  "success": true,
+  "projectFilePath": "/home/dev/projects/dotnet_projects/Bulky/BulkyBook.Utility/BulkyBook.Utility.csproj",
+  "expectedPackageFiles": [
+    "/home/dev/.nuget/packages/microsoft.netcore.app.ref/7.0.9/microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
