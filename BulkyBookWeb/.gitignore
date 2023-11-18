@@ -68,3 +68,13 @@ $RECYCLE.BIN/
 
 # Ignore DLL files
 *.dll
+
+# Ignore binaries and object files in BulkyBookWeb
+[Bb]in/
+[Oo]bj/
+
+# Include the bin and obj directories from other projects
+../BulkyBook.DataAccess/[Bb]in/
+../BulkyBook.DataAccess/[Oo]bj/
+../BulkyBook.Model/[Bb]in/
+../BulkyBook.Model/[Oo]bj/
